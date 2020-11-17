@@ -1,0 +1,13 @@
+{
+  "name": "test_package_kujacic",
+  "version": "1.0.0",
+  "description": "Testni package danilo kujacic",
+  "main": "./start.js",
+  "bin": "./start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "Danilo Kujacic",
+  "license": "MIT"
+}
